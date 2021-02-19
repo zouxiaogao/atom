@@ -36,7 +36,6 @@ public class RabbitConfig {
     public static final String TOPIC_EXCHANGE = "testTopicExchange";
     public static final String TOPIC_ROUTING = "testTopicRouting.#";
 
-
     /**
      * direct
      */
