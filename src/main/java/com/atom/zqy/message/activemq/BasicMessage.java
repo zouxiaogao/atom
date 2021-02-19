@@ -8,11 +8,10 @@ import java.io.Serializable;
 import java.util.Date;
 
 /**
- * @author Lewine
+ * @author zouqingyuan
  * @version V1.0
  * @Description
- * @Date 2020/11/30
- * @Copyright Copyright © 2020 深圳花儿绽放网络科技股份有限公司. All rights reserved.
+ * @Date 2021/02/03
  */
 @Data
 public class BasicMessage implements Serializable {
